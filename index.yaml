@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   gow-new-1:
   - apiVersion: v1
+    appVersion: 0.0.4
+    created: "2023-02-15T11:27:40.700832897Z"
+    description: A Helm chart for Kubernetes
+    digest: af14a45e2ae5cc7dca01528d9a85e85ad8d0c03c9173f7307fd94aefacbe743a
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: gow-new-1
+    urls:
+    - gow-new-1-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v1
     appVersion: 0.0.3
-    created: "2023-02-15T11:22:01.88521783Z"
+    created: "2023-02-15T11:27:40.700036785Z"
     description: A Helm chart for Kubernetes
     digest: dc91e49942b8e15f754e2af63e32d237761083427c4e919356f0ea37d2337c63
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -11,4 +21,4 @@ entries:
     urls:
     - gow-new-1-0.0.3.tgz
     version: 0.0.3
-generated: "2023-02-15T11:22:01.884306611Z"
+generated: "2023-02-15T11:27:40.69906777Z"
