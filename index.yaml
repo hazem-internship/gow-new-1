@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   gow-new-1:
   - apiVersion: v1
+    appVersion: 0.0.13
+    created: "2023-02-16T09:42:29.214724894Z"
+    description: A Helm chart for Kubernetes
+    digest: db272bd07af14cc45f6f9582be3abd7135dbada4e19cbba39f22efc36190f147
+    icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
+    name: gow-new-1
+    urls:
+    - gow-new-1-0.0.13.tgz
+    version: 0.0.13
+  - apiVersion: v1
     appVersion: 0.0.12
-    created: "2023-02-15T15:35:25.213513918Z"
+    created: "2023-02-16T09:42:29.214099944Z"
     description: A Helm chart for Kubernetes
     digest: eafa3ec176956b3d7705d42230b5a56ae92eb8c58511c88334b92997e3b47793
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -13,7 +23,7 @@ entries:
     version: 0.0.12
   - apiVersion: v1
     appVersion: 0.0.11
-    created: "2023-02-15T15:35:25.21268677Z"
+    created: "2023-02-16T09:42:29.213371301Z"
     description: A Helm chart for Kubernetes
     digest: 7d84c9483fe4456dda42c372b54fd65b469de09e0481e50ed7bdbb08a14e1336
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -23,7 +33,7 @@ entries:
     version: 0.0.11
   - apiVersion: v1
     appVersion: 0.0.10
-    created: "2023-02-15T15:35:25.211812788Z"
+    created: "2023-02-16T09:42:29.212688812Z"
     description: A Helm chart for Kubernetes
     digest: a4558e1a8384a6c46a8b9b3ca403958abab19a203b3ba785bfd4ebbbaebf9cf4
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -33,7 +43,7 @@ entries:
     version: 0.0.10
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2023-02-15T15:35:25.214958273Z"
+    created: "2023-02-16T09:42:29.216063352Z"
     description: A Helm chart for Kubernetes
     digest: af14a45e2ae5cc7dca01528d9a85e85ad8d0c03c9173f7307fd94aefacbe743a
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -43,7 +53,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2023-02-15T15:35:25.21429367Z"
+    created: "2023-02-16T09:42:29.215388247Z"
     description: A Helm chart for Kubernetes
     digest: dc91e49942b8e15f754e2af63e32d237761083427c4e919356f0ea37d2337c63
     icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png
@@ -51,4 +61,4 @@ entries:
     urls:
     - gow-new-1-0.0.3.tgz
     version: 0.0.3
-generated: "2023-02-15T15:35:25.210832036Z"
+generated: "2023-02-16T09:42:29.211905574Z"
