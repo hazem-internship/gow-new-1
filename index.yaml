@@ -128,6 +128,6 @@ entries:
     - https://github.com/grafana/grafana
     type: application
     urls:
-    - https://github.com/hazem-internship/gow-new-1.git/grafana-6.51.1.tgz
+    - grafana-6.51.1.tgz
     version: 6.51.1
 generated: "2023-02-27T15:33:28.309791212+01:00"
