@@ -103,7 +103,6 @@ entries:
     urls:
     - gow-new-1-0.0.3.tgz
     version: 0.0.3
-generated: "2023-02-23T15:03:38.343211051Z"
   grafana:
   - apiVersion: v2
     appVersion: 9.3.6
